@@ -1,84 +1,70 @@
-# AI Disclosure Log — GreenPulse
+# AI Disclosure & Prompt Audit Log
 
-**Project:** GreenPulse: A Community Climate Action and Environmental Monitoring Application
-**SDG Alignment:** SDG 13 — Climate Action
-**Prepared by:** wxyz
-**Last Updated:** 10/19/2026
+*Course:* ITMSD1 – Introduction to Mobile Design and Tools
+*Semester:* 1st Semester, 2026–2027
+*Participating Classes:* Section C & Section F (Inter-Class Hackathon)
 
-## 1. AI Tools Used
+## Team Information
 
-| AI Tool                             | Purpose                                                                                                                                      |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ChatGPT (OpenAI)                    | Assisted with brainstorming, project planning, identifying potential features, developing user personas, and refining project documentation. |
-| Figma AI (if used)                  | Assisted with generating or refining UI designs, wireframes, and interface concepts.                                                         |
-| OpenCode (if used with AI features) | Assisted with development tasks, prompts, or code generation, as applicable.                                                                 |
+- *Team ID:* F-4
+- *Team Name:* wxyz
 
-*Note: Retain only the tools that the team actually used.*
+## Project Details
 
-## 2. AI Usage and Prompts
+- *Project Title:* GreenPulse – A Community Climate Action and Environmental Monitoring Application
+- *UN SDG Track:* SDG 13 – Climate Action
 
-### Task 1: Project Planning and Problem Framing
+---
 
-**Purpose:** Organize the GreenPulse concept and identify environmental challenges the application could address in support of SDG 13.
+## 1. Reference Benchmark Examples
 
-**Prompt Summary:** Asked for assistance in planning a community-based climate action and environmental monitoring application that enables residents to monitor environmental conditions, report local environmental problems, and participate in climate-related activities.
+Refer to the official ITMSD1 AI Disclosure Log Template for the benchmark examples on code generation, reactive state management, UI layout assembly, and constraint debugging.
 
-**AI Contribution:** Provided suggestions for the project concept, possible features, and ways to encourage community participation in climate action.
+---
 
-**Human Contribution:** The team evaluated the suggestions and selected ideas appropriate for the project's objectives, target users, and requirements.
+## 2. Team AI Disclosure Audit Log
 
-### Task 2: Project Documentation
+### Entry 1 — Week 1: Ideation and Project Planning
 
-**Purpose:** Assist in preparing and organizing the project's documentation.
+- *Date & Milestone:* 2026-10-16 to 2026-10-19 | Week 1 (Problem Framing, Research, User Personas, and Low-Fidelity Wireframes)
+- *AI Tool & Model:* ChatGPT (GPT-6)
+- *Member Responsible:* Jestoni Mabandos, Lawrence Legaspi
 
-**Prompt Summary:** Asked for help developing the problem statement, user personas, project overview, user flows, feature descriptions, and other relevant project documentation for GreenPulse.
+*Prompt Guidance:*
 
-**AI Contribution:** Assisted with structuring written content, clarifying descriptions, and aligning the project concept with SDG 13 — Climate Action.
+Asked ChatGPT for guidance on how to start and organize the GreenPulse mobile application project for the four-week hackathon. Requested step-by-step instructions on understanding the Week 1 requirements, defining the project problem, aligning the application with SDG 13: Climate Action, identifying potential users, conducting initial research, and planning low-fidelity wireframes.
 
-**Human Contribution:** The team reviewed, revised, and validated the documentation to ensure it accurately represented the project and its intended users.
+*AI Output Summary:*
 
-### Task 3: UI Design and Wireframes
+ChatGPT provided guidance on organizing the initial stages of GreenPulse development. The guidance covered defining the application's purpose, identifying potential environmental concerns, understanding user needs, planning user personas, organizing research documentation, and preparing low-fidelity wireframes based on the project's climate action objectives.
 
-**Purpose:** Support the planning and refinement of the GreenPulse user interface and wireframes.
+*Human Refinements & Edits:*
 
-**AI Tool Used:** ChatGPT and/or Figma AI, as applicable.
+We used the guidance to establish GreenPulse as a community climate action and environmental monitoring application. We focused on environmental awareness, reporting local environmental problems, monitoring environmental conditions, and encouraging community participation. We applied relevant suggestions when organizing our Week 1 tasks and planning our initial Figma wireframes based on the project's objectives and requirements.
 
-**Prompt Summary:** Requested suggestions for a user-friendly GreenPulse interface featuring environmental monitoring, community environmental reporting, climate action activities, and relevant dashboard components.
+*Key Learning Takeaway:*
 
-**AI Contribution:** Provided design recommendations, interface ideas, and suggestions for features that could improve usability and support the project's climate action objectives.
+We learned how to organize the initial stages of a mobile application project, define a problem connected to a Sustainable Development Goal, identify potential users and their needs, and plan low-fidelity wireframes before proceeding to detailed UI design. We also learned that AI guidance should be reviewed and adapted to the actual needs and objectives of our project.
 
-**Human Contribution:** The team reviewed the recommendations and made the final decisions regarding the interface layout, visual design, navigation, and features included in the Figma prototype.
+---
 
-### Task 4: Feature Identification and SDG Alignment
+### Future Entries
 
-**Purpose:** Identify important application features that support climate awareness, community participation, and environmental monitoring.
+Additional entries will be documented using the same format as the project progresses.
 
-**Prompt Summary:** Asked for suggestions on features that would make GreenPulse useful to residents and community administrators while supporting SDG 13.
+- *Week 2:* Figma UI Design
+- *Week 3:* MVP Scaffold
+- *Week 3:* Data & State
+- *Week 4:* Final Polish
 
-**AI Contribution:** Suggested potential features such as environmental issue reporting, environmental condition monitoring, climate action announcements, community activities, and educational resources.
+---
 
-**Human Contribution:** The team assessed the suggested features and determined which were relevant, practical, and suitable for the project's scope.
+## 3. Academic Honesty & Transparency Declaration
 
-## 3. Estimated Contribution Percentages
+We hereby declare that all entries recorded in this AI Disclosure Log are intended to represent a truthful and accurate account of the artificial intelligence tools used during this hackathon. All research, designs, and code submitted will be reviewed and verified by our team members, who will strive to understand the work and be prepared to explain and defend their contributions during the Demo Day oral defense.
 
-- **AI-assisted contribution:** [Enter an honest estimate based on actual AI usage and the instructor's guidelines.]
-- **Human/team contribution:** [Enter the corresponding estimate.]
-
-**Note:** These percentages should reflect the team's actual work and the method required by the instructor. They should not be treated as measured statistics or assigned arbitrarily.
-
-## 4. Human Review and Verification
-
-Vanguard Squad is responsible for reviewing all AI-assisted content and determining which suggestions to incorporate into GreenPulse. The team will verify that the project documentation, user interface, wireframes, proposed features, and any generated code are accurate, appropriate, and aligned with SDG 13 — Climate Action.
-
-The team will also ensure that environmental information and monitoring features are presented responsibly and that proposed functionalities are not described as operational unless they have been implemented and tested.
-
-## 5. Declaration
-
-We acknowledge the use of AI tools, where applicable, to support the planning, documentation, design, and development of GreenPulse: A Community Climate Action and Environmental Monitoring Application.
-
-AI assistance was used to support the team's work and decision-making. The team remains responsible for the final project, its design and implementation, the accuracy of its documentation, and compliance with the project requirements.
-
-**Prepared by:** wxyz
-**Project:** GreenPulse
-**SDG Alignment:** SDG 13 — Climate Action
-**Date:** 10/19/2026
+| Team Member Name           | Signature   | Date (YYYY-MM-DD) |
+| -------------------------- | ----------- | ----------------- |
+| Member 1: Jestoni Mabandos | [Signature] | 2026-10-18        |
+| Member 2: Lawrence Legaspi | [Signature] | 2026-10-18        |
+| Member 3: [Enter Name]     | [Signature] | YYYY-MM-DD        |
