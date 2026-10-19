@@ -65,6 +65,6 @@ We hereby declare that all entries recorded in this AI Disclosure Log are intend
 
 | Team Member Name           | Signature   | Date (YYYY-MM-DD) |
 | -------------------------- | ----------- | ----------------- |
-| Member 1: Jestoni Mabandos | [Signature] | 2026-10-18        |
-| Member 2: Lawrence Legaspi | [Signature] | 2026-10-18        |
+| Member 1: Jestoni Mabandos | [Signature] | 2026-10-16        |
+| Member 2: Lawrence Legaspi | [Signature] | 2026-10-16        |
 | Member 3: [Enter Name]     | [Signature] | YYYY-MM-DD        |
