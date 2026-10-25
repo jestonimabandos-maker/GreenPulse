@@ -34,6 +34,7 @@ Communities need an accessible and organized way to report environmental concern
 - **Mobile Development:** React Native with Expo
 - **Programming Language:** JavaScript or TypeScript, depending on the implementation
 - **Database:** To be confirmed based on the implemented solution
+- **Version Control:** Git and GitHub
 
 ## Installation and Setup
 
@@ -75,24 +76,54 @@ Communities need an accessible and organized way to report environmental concern
 
 ## Figma Prototype
 
-**Figma Design:** [Add your shareable Figma URL here]
+**Figma Design:** [https://www.figma.com/design/IRpby8Gv0P0oagQqzc3CnB/GreenPulse-%E2%80%93-Low-Fi-Android-Wireframes?node-id=0-1&t=iK5EfoagqFBYHQdc-1](https://www.figma.com/design/IRpby8Gv0P0oagQqzc3CnB/GreenPulse-%E2%80%93-Low-Fi-Android-Wireframes?node-id=0-1\&t=iK5EfoagqFBYHQdc-1)
+
+The GreenPulse design focuses on a consistent green visual identity, reusable UI components, clear navigation, and environmental features aligned with SDG 13: Climate Action.
 
 Make sure the link permissions allow your instructor to view the design.
 
+## Team Information
+
+- **Course:** ITMSD1 – Introduction to Mobile Design and Tools
+- **Semester:** 1st Semester, Academic Year 2026–2027
+- **Participating Classes:** Section C & Section F
+- **Team ID:** F-4
+- **Team Name:** wxyz
+
+### Team Members
+
+- Jestoni Mabandos
+- Lawrence Legaspi
+
+## Project Roadmap
+
+| Week   | Milestone                                                             | Status    |
+| ------ | --------------------------------------------------------------------- | --------- |
+| Week 1 | Problem Framing, Research, User Personas, and Low-Fidelity Wireframes | Completed |
+| Week 2 | Component Design System & Clickable Interactive Figma Prototype       | Completed |
+| Week 3 | Mobile MVP Scaffold & Core Features                                   | Planned   |
+| Week 4 | Final Codebase Freeze, Pitch Deck & Live Demo Day Defense             | Planned   |
+
 ## Project Status
 
-Currently in development as part of the **ITMSD1 AI Hackathon, First Semester, Academic Year 2026–2027**.
+GreenPulse is currently in development as part of the **ITMSD1 Inter-Class Hackathon, First Semester, Academic Year 2026–2027**.
+
+The project follows a four-week development roadmap, beginning with problem framing and low-fidelity wireframes, followed by the component design system, clickable Figma prototype, mobile application development, and final demonstration.
 
 ## UN Sustainable Development Goal
 
 **SDG 13 — Climate Action**
 
-GreenPulse aims to promote climate awareness and community participation in environmental action.
+GreenPulse aims to promote climate awareness and community participation in environmental action by providing a platform for reporting environmental concerns, accessing relevant information, and discovering local environmental initiatives.
 
 ## AI Usage Disclosure
 
-See [`AI_DISCLOSURE_LOG.md`](./AI_DISCLOSURE_LOG.md) for documentation of AI tools, prompts, outputs, human refinements, and learning takeaways.
+The project team uses AI tools for guidance and support during project planning, design exploration, documentation, and development.
+
+All AI-generated suggestions are reviewed and refined by the team before being incorporated into the project. AI usage, prompts, outputs, human refinements, and learning takeaways are documented in the project's AI Disclosure Log.
+
+See [`AI_DISCLOSURE_LOG.md`](https://github.com/jestonimabandos-maker/GreenPulse/blob/main/AI_DISCLOSURE_LOG.md) for the detailed record of AI usage.
 
 ## Disclaimer
 
-GreenPulse is a community-support application in development. Environmental information, report handling, and notifications will depend on the features and data sources implemented by the project team.
+GreenPulse is a community-support application in development. Environmental information, report handling, monitoring data, administrative functions, and notifications depend on the features and data sources implemented by the project team. Proposed features should not be considered fully operational until they have been developed and tested.
