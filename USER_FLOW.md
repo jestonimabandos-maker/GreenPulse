@@ -8,7 +8,20 @@
 
 This user flow illustrates how residents can use GreenPulse to access climate-related information, monitor environmental conditions, report local environmental concerns, and participate in activities that promote climate awareness and community resilience.
 
-### 2. Environmental Monitoring Flow
+### 2. App Entry and Exit Flow
+
+1. Open the GreenPulse application.
+2. View the Splash Screen.
+3. Proceed to the Welcome Screen or Login Screen, depending on the implemented design.
+4. Log in or create an account, if authentication is required.
+5. Access the Home Dashboard.
+6. Select an available feature, such as Environmental Monitoring, Environmental Concern Reporting, Climate Action Activities, or Climate Awareness.
+7. Complete the selected task.
+8. Return to the Home Dashboard or navigate to another feature.
+9. Open the Profile or Settings section, if available.
+10. Select Logout or Exit the application when finished, depending on the implemented options.
+
+### 3. Environmental Monitoring Flow
 
 1. Open the GreenPulse application.
 2. View the Home Dashboard.
@@ -18,7 +31,7 @@ This user flow illustrates how residents can use GreenPulse to access climate-re
 6. Review the displayed readings, trends, or environmental updates.
 7. Use the information to improve awareness of local environmental conditions.
 
-### 3. Environmental Concern Reporting Flow
+### 4. Environmental Concern Reporting Flow
 
 1. Open the GreenPulse application.
 2. View the Home Dashboard.
@@ -31,7 +44,7 @@ This user flow illustrates how residents can use GreenPulse to access climate-re
 9. View the submission confirmation.
 10. Open "My Reports" to review the submitted report and its status, if report tracking is implemented.
 
-### 4. Climate Action Activities Flow
+### 5. Climate Action Activities Flow
 
 1. Open the GreenPulse application.
 2. View the Home Dashboard.
@@ -42,7 +55,7 @@ This user flow illustrates how residents can use GreenPulse to access climate-re
 7. Register or indicate interest, if the feature is available.
 8. Participate in the selected activity and contribute to community climate action.
 
-### 5. Climate Awareness and Educational Resources Flow
+### 6. Climate Awareness and Educational Resources Flow
 
 1. Open the GreenPulse application.
 2. View the Home Dashboard.
@@ -52,7 +65,7 @@ This user flow illustrates how residents can use GreenPulse to access climate-re
 6. Review practical recommendations for reducing environmental impact.
 7. Apply the suggested actions in daily life or share relevant information with the community, if sharing is supported.
 
-### 6. Environmental Report Status Flow
+### 7. Environmental Report Status Flow
 
 A submitted environmental concern may progress through the following statuses, depending on the implemented reporting and review process:
 
@@ -65,7 +78,26 @@ A submitted environmental concern may progress through the following statuses, d
 
 These statuses represent a proposed workflow. Actual status changes depend on the features implemented and the participation of authorized reviewers.
 
-### 7. Expected Outcome
+### 8. Navigation and Return Flow
+
+1. From the Home Dashboard, select a feature.
+2. View the selected feature's screen.
+3. Review information or complete the required action.
+4. Use the Back button or navigation menu to return to the previous screen or Home Dashboard.
+5. Select another feature if needed.
+6. Repeat the process until the user has completed the intended tasks.
+
+### 9. Error and Empty-State Flow
+
+1. The user opens an environmental feature or submits a report.
+2. The application checks whether the required information or data is available.
+3. If data is available, display the information or proceed with the requested action.
+4. If no environmental data is available, display a message explaining that readings are currently unavailable.
+5. If required report details are missing, highlight the incomplete fields and ask the user to provide the necessary information.
+6. If submission fails, display an error message and allow the user to retry.
+7. Provide a Back or Home navigation option so the user can continue using the application.
+
+### 10. Expected Outcome
 
 The GreenPulse user flow is designed to help residents become more informed about climate-related issues, access available environmental information, report local environmental concerns, and participate in activities that support climate action. By bringing environmental awareness and community participation together, GreenPulse aims to encourage responsible environmental practices and strengthen community resilience in support of SDG 13 — Climate Action.
 
