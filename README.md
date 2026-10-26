@@ -49,7 +49,7 @@ Communities need an accessible and organized way to report environmental concern
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/jestonimabandos-maker/GreenPulse.git
    ```
 
 2. Open the project directory:
